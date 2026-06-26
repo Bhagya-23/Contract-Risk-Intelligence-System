@@ -1,4 +1,4 @@
-# 📄 AI-Powered Contract Risk Intelligence System
+# 📄 Contract Risk Intelligence System
 
 ## Overview
 
